@@ -1,0 +1,1 @@
+print("rise up child")
